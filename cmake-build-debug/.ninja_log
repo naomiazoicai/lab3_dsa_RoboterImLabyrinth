@@ -1,0 +1,11 @@
+# ninja log v5
+18	384	7055160887754955	CMakeFiles/lab3_dsa.dir/ShortTest.cpp.obj	e81339f9abac5e5
+3	187	7056021550704105	CMakeFiles/lab3_dsa.dir/Stack.cpp.obj	f7dd6667d39bd970
+9	271	7056008299354078	CMakeFiles/lab3_dsa.dir/Queue.cpp.obj	86f2288c3d58be6a
+3	278	7056050473349498	CMakeFiles/lab3_dsa.dir/App.cpp.obj	294a99b431a3d59d
+4	665	7055160890567343	CMakeFiles/lab3_dsa.dir/ExtendedTest.cpp.obj	ed266f9ef83bf456
+318	435	7056055515851223	lab3_dsa.exe	fe46a3499061f20b
+22	656	7056009589956836	CMakeFiles/lab3_dsa.dir/ShortTestStack.cpp.obj	d5445af412308f73
+4	310	7061206167115766	build.ninja	fc450a55e7d634be
+38	729	7055160891221767	CMakeFiles/lab3_dsa.dir/Labirinth.cpp.obj	9dfd0c07ef24e910
+3	317	7056055514710896	CMakeFiles/lab3_dsa.dir/Labyrinth.cpp.obj	1899efc5e53e08df
